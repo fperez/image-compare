@@ -2,10 +2,16 @@
 
 An image comparison tool based on the IPython interactive widget architecture.
 
-The notebook included here is an illustration of how to build an IPython widget
+The [notebook included here](http://nbviewer.ipython.org/github/fperez/image-compare/blob/master/ImageCompare.ipynb) is an illustration of how to build an IPython widget
 for a real-world use case: intercactive exploration of the differences between
 two images (inspired by
 [Github's image diff](https://github.com/blog/817-behold-image-view-modes)).
+
+**Note:** Since this notebook contains interactive widgets, if you read it on
+IPython's nbviewer you will not be able to see the interactive effects. You'll
+need to download it and run it locally.
+
+## Acknowledgments
 
 Thanks to [Neil Lawrence](http://www.shef.ac.uk/neuroscience/staff/lawrence),
 from U. Sheffield, for the invitation to speak at his data science meetup. A
